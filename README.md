@@ -1,20 +1,42 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# ThirdEye - Website Content Document
 
-# Run and deploy your AI Studio app
+## 📋 What This Is
 
-This contains everything you need to run your app locally.
+Complete website copy and content for **ThirdEye** - an AI harassment detection system that alerts authorities in under 3 seconds.
 
-View your app in AI Studio: https://ai.studio/apps/drive/15Se5Wp6FCjlNG93T_fRKa81nVVK758lp
+## 📦 What's Included
 
-## Run Locally
+**13 Website Sections:**
+- Hero, Problem Statement, Solution, Interactive Demo, Technology, Impact, Industries, Deployment, Pricing, Partners, FAQ, CTAs, Footer
 
-**Prerequisites:**  Node.js
+**Plus:**
+- Design guidelines (colors, typography, animations)
+- Voice & tone guide
+- SEO meta tags
+- Social media copy
+- Audience-specific messaging
 
+## ✨ Key Feature
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+**Interactive "How It Works" Demo** - A 3-stage animated visualization showing:
+1. Detection (00:01) - AI identifies threat
+2. Analysis (00:02) - Threat assessment  
+3. Response (00:03) - Alert dispatch
+
+Design: Dark theme, glassmorphism, scroll/click progression, mobile swipe gestures.
+
+## 🎯 Target Markets
+
+Transit systems, universities, corporate campuses, hospitals, retail, municipalities.
+
+## 📝 Quick Tips
+
+- Each section has headline, body copy, and styling notes
+- Interactive elements include detailed animation specs
+- Mobile-responsive guidelines included
+- All CTAs and button text provided
+- SEO and social sharing copy ready to use
+
+---
+
+**Ready to build?** All content is copy-paste ready. Just add visuals and deploy.
